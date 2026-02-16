@@ -6,4 +6,8 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "fastapi[standard]>=0.129.0",
+    "opencv-python>=4.13.0.92",
+    "pytest>=9.0.2",
+    "torch>=2.10.0",
+    "torchvision>=0.25.0",
 ]
