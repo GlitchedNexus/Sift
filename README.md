@@ -22,7 +22,6 @@ sift/
 ├── tests/              # Unit tests for spatial transforms and model IO
 ├── Dockerfile          # Multi-stage build for production-ready images
 └── main.py             # Application entry point
-
 ```
 
 ## 2. Technical Stack & Future Expansions
